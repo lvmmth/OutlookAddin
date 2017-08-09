@@ -20,8 +20,8 @@
   <Description DefaultValue="Test Outlook Add-in"/>
 
   <!-- Icon for your add-in. Used on installation screens and the add-ins dialog. -->
-  <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/hi-res-icon.png"/>
+  <IconUrl DefaultValue="https://p-phornthip.github.io/OutlookAddin/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://p-phornthip.github.io/OutlookAddin/assets/hi-res-icon.png"/>
 
   <!--If you plan to submit this add-in to the Office Store, uncomment the SupportUrl element below-->
   <!--SupportUrl DefaultValue="[Insert the URL of a page that provides support information for the app]" />
@@ -45,7 +45,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://localhost:3000/index.html"/>
+        <SourceLocation DefaultValue="https://p-phornthip.github.io/OutlookAddin/index.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
