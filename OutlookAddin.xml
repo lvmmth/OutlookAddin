@@ -104,13 +104,13 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="icon16" DefaultValue="https://p-phornthip.github.io/OutlookAddin/index.html/assets/icon-16.png"/>
-        <bt:Image id="icon32" DefaultValue="https://p-phornthip.github.io/OutlookAddin/index.html/assets/icon-32.png"/>
+        <bt:Image id="icon16" DefaultValue="https://p-phornthip.github.io/OutlookAddin/assets/icon-16.png"/>
+        <bt:Image id="icon32" DefaultValue="https://p-phornthip.github.io/OutlookAddin/assets/icon-32.png"/>
         <bt:Image id="icon80" DefaultValue="https://p-phornthip.github.io/OutlookAddin/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="functionFile" DefaultValue="https://p-phornthip.github.io/OutlookAddin/index.html/function-file/function-file.html"/>
-        <bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://p-phornthip.github.io/OutlookAddin/index.html/index.html"/>
+        <bt:Url id="functionFile" DefaultValue="https://p-phornthip.github.io/OutlookAddin/function-file/function-file.html"/>
+        <bt:Url id="messageReadTaskPaneUrl" DefaultValue="https://p-phornthip.github.io/OutlookAddin/index.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="groupLabel" DefaultValue="My Add-in Group"/>
